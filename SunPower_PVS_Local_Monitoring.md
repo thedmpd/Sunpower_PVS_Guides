@@ -224,6 +224,7 @@ Imagine you need to deliver a package across 2 countries but you can’t be both
 * ![][image43]  
 * **SAVE** click it  
 * ![][image44]  
+* **SAVE & APPLY** click it  
 * Switch tabs to the following:  
   * **IP\_OF\_YOUR\_MANGO\_HERE:8080**  
   * **IP\_OF\_YOUR\_MANGO\_HERE:8080/cgi-bin/dl\_cgi?Command=DeviceList**  
